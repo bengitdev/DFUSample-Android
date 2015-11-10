@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BenKST/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e22ff679b0f03e4752e99b3c467bd6a968af036c.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/exploded-aar/no.nordicsemi.android.support.v18/scanner/0.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="564665effcb7a36a56bf71ddf048c350d4dee4ea">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/classes-9f0e679b461f6666613af700b93680acf49ef1cb.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e2819a773739ad3c257b65bf93aee068b4878a32.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/classes-e63fe89d363034cccd4c4c13436de2f86b39911c.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/classes-a7f6e7610ec5858e7214f3b8b9c57141736817ac.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6fca5b05b24729653b178086c7b14ff67d53a124.jar" />
+    </item>
+    <item
+        jar="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/exploded-aar/DFUTesting....DFULibrary/dfu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5acd2c92483bd5357ec74f4fa0d36100cb3ee59">
+        <dex dex="/Users/BenKST/AndroidStudioProjects/DFUTesting/app/build/intermediates/pre-dexed/debug/classes-4ff7cf78cda7fe6df07e105b691c552eba327795.jar" />
+    </item>
+
+</items>
